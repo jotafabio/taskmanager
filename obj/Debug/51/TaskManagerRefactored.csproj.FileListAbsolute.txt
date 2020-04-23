@@ -1,0 +1,7 @@
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\MonoAndroid,Version=v5.1.AssemblyAttributes.cs
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\build.props
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\adb.props
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\TaskManagerRefactored.csprojAssemblyReference.cache
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\res.flag
+C:\Users\ribei\source\repos\TaskManagerRefactored\obj\Debug\51\flata\compiled.flata
